@@ -3,6 +3,7 @@
     "id": "1",
     "name": "Basic Python ",
     "price": 2000,
+    "rating": 4.8,
     "img": "https://w7.pngwing.com/pngs/364/982/png-transparent-python-programming-language-computer-programming-language-angle-text-computer-thumbnail.png",
     "description": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances"
   },
@@ -10,6 +11,7 @@
     "id": "2",
     "name": "Web Development",
     "price": 4000,
+    "rating": 4.9,
     "img": "https://www.spaceo.ca/wp-content/uploads/2021/08/Full-Stack-Development-Courses-1.jpg",
     "description": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built"
   },
@@ -17,6 +19,7 @@
     "id": "3",
     "name": "Android App Development",
     "price": 4000,
+    "rating": 4.7,
     "img": "https://i.ytimg.com/vi/fis26HvvDII/maxresdefault.jpg",
     "description": "The course is for designing and building mobile applications using Android™ open-source platform. It will be a combination of lecture and laboratory course which will help the student understand the philosophy of developing for Android™ through its main application development building blocks and their interaction with one another."
   },
@@ -24,6 +27,7 @@
     "id": "4",
     "name": "Office Application",
     "price": 1500,
+    "rating": 4.9,
     "img": "https://i.ytimg.com/vi/DzTCFsdxMP4/maxresdefault.jpg",
     "description": "Computer Office Applications course provides a solid foundation within the basic and intermediate skills for working with computing system , Word processing system , Spread sheet creation, PowerPoint presentation, Database, Email handling, Internet applications system, Google G-suite and concept on Online Freelancing."
   },
@@ -31,6 +35,7 @@
     "id": "5",
     "name": "Java for Beginners",
     "price": 2000,
+    "rating": 4.7,
     "img": "https://i.ytimg.com/vi/grEKMHGYyns/maxresdefault.jpg",
     "description": "This course of study builds on the skills gained by students in Java Fundamentals or Java Foundations to help advance Java programming skills. Students will design object-oriented applications with Java and will create Java programs using hands-on, engaging activities."
   },
@@ -38,6 +43,7 @@
     "id": "6",
     "name": "Graphic Design",
     "price": 2500,
+    "rating": 4.7,
     "img": "https://i.ytimg.com/vi/UHmsKEQLLDk/maxresdefault.jpg",
     "description": "This course introduces students to the characteristic manner of expressions, basic designs, various constructions, and execution of graphic design, and its visual aesthetics at particular times and places throughout history. The course covers how the look of graphic design has evolved and what caused this evolution, starting with commercial art at the beginning of the industrial revolution in the 19th century and ending with the current digital era"
   }
