@@ -20,6 +20,11 @@ app.get("/courses/:id", (req, res) => {
   const selectedCourses = courses.find((course) => course.id === id);
   res.send(selectedCourses);
 });
+app.get("/checkout/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCourses = courses.find((course) => course.id === id);
+  res.send(selectedCourses);
+});
 app.listen(port, () => {
   console.log("Course Guru server is running", port);
 });
